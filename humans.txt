@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gagandeep Gogna gagandeep.gogna@udemy.com
 
 # THANKS
 
