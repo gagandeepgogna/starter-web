@@ -13,7 +13,7 @@ As Stated above, the main purpose is to provide simple examples for git training
 ##Deployment
 This is Simple Web Project
 ## How To Contribute
-
+Please Fork this repository and then issue pull request for review
 ## Copyright
 
 Copyright
