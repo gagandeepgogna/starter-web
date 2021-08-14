@@ -13,3 +13,7 @@ As Stated above, the main purpose is to provide simple examples for git training
 ##Deployment
 This is Simple Web Project
 ## How To Contribute
+
+## Copyright
+
+Copyright
