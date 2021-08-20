@@ -15,5 +15,5 @@ This is Simple Web Project
 ## How To Contribute
 Please Fork this repository and then issue pull request for review.
 ## Copyright
-
+All Rights Reserved
 Copyright
